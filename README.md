@@ -1,21 +1,16 @@
-# shopping-app
-shopping app using flutter
+# shopping_app
 
-#see also
-![Alt Text](ezgif.com-gif-maker.gif)
-# see also:
-![Alt Text](flutter_01.png)
-# see also
+A new Flutter project.
 
-![Alt Text](flutter_02.png)
-### see also
+## Getting Started
 
-![Alt Text](flutter_03.png)
-### see also
-![Alt Text](flutter_04.png)
-### see also
-![Alt Text](flutter_05.png)
-### see also
-![Alt Text](flutter_06.png)
-### see also
-![Alt Text](flutter_07.png)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
