@@ -1,0 +1,6 @@
+<svg id="battery" xmlns="http://www.w3.org/2000/svg" width="10" height="18.75" viewBox="0 0 10 18.75">
+  <rect id="Rectangle" width="10" height="3.75" transform="translate(0 5.938)" fill="#1e2d3e"/>
+  <rect id="Rectangle-2" data-name="Rectangle" width="10" height="3.75" transform="translate(0 10.313)" fill="#1e2d3e"/>
+  <path id="Path" d="M8.917,1.25H6.875V0H3.125V1.25H1.082A1.084,1.084,0,0,0,0,2.332v2.98H10V2.332A1.084,1.084,0,0,0,8.917,1.25Z" fill="#1e2d3e"/>
+  <path id="Path-2" data-name="Path" d="M0,2.98A1.084,1.084,0,0,0,1.082,4.063H8.917A1.084,1.084,0,0,0,10,2.98V0H0Z" transform="translate(0 14.688)" fill="#1e2d3e"/>
+</svg>
